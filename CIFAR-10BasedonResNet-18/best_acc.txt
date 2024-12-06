@@ -1,0 +1,2 @@
+EPOCH=197, best_acc=92.730%
+Model saved as: ./best/best_model_92.73.pth
